@@ -1,0 +1,47 @@
+log4net:ERROR Failed to find configuration section 'log4net' in the application's .config file. Check your .config file for the <log4net> and <configSections> elements. The configuration section should look like: <section name="log4net" type="log4net.Config.Log4NetConfigurationSectionHandler,log4net" />
+log4net:ERROR Failed to find configuration section 'log4net' in the application's .config file. Check your .config file for the <log4net> and <configSections> elements. The configuration section should look like: <section name="log4net" type="log4net.Config.Log4NetConfigurationSectionHandler,log4net" />
+Major_version=1
+ Minor_version=8
+build_version=0
+configureEnsSimulatorOptions_status=0
+startEnsCommunicationSession_status=2
+num_samples_available=0
+num_samples_available=0
+num_samples_available=0
+num_samples_available=0
+num_samples_available=0
+num_samples_available=12
+num_samples_available=4
+num_samples_available=0
+num_samples_available=4
+num_samples_available=0
+num_samples_available=4
+num_samples_available=0
+num_samples_available=4
+num_samples_available=4
+num_samples_available=0
+num_samples_available=0
+num_samples_available=4
+num_samples_available=0
+num_samples_available=4
+num_samples_available=0
+tic[0]=0
+buf[0]=0 buf[1]=0 buf[2]=0 buf[3]=0 
+tic[1]=1
+buf[0]=205 buf[1]=270 buf[2]=308 buf[3]=321 
+tic[2]=2
+buf[0]=411 buf[1]=540 buf[2]=617 buf[3]=643 
+tic[3]=12
+buf[0]=2468 buf[1]=3235 buf[2]=3691 buf[3]=3837 
+tic[4]=16
+buf[0]=3288 buf[1]=4307 buf[2]=4907 buf[3]=5092 
+tic[5]=20
+buf[0]=4106 buf[1]=5372 buf[2]=6111 buf[3]=6328 
+tic[6]=24
+buf[0]=4922 buf[1]=6430 buf[2]=7299 buf[3]=7538 
+tic[7]=28
+buf[0]=5734 buf[1]=7478 buf[2]=8469 buf[3]=8719 
+tic[8]=32
+buf[0]=6543 buf[1]=8516 buf[2]=9618 buf[3]=9865 
+tic[9]=36
+buf[0]=7348 buf[1]=9542 buf[2]=10742 buf[3]=10973 
